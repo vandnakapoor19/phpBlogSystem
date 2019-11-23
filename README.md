@@ -1,0 +1,2 @@
+# phpBlogSystem
+Bootstrap, PHP, Mysqli
