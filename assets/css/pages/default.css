@@ -1,0 +1,50 @@
+body {
+    background-color: #fff !important;
+}
+
+.page-content {
+    margin: 5%;
+}
+
+.rd {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 4px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.header .navbar-inner {
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
+    background-color: #fff !important;
+}
+
+.blog-article {
+    padding: 2% !important;
+    overflow-wrap: break-word;
+}
+
+.header .navbar-inner {
+    width: 100%;
+    margin-left: 0 0 0 110px;
+    border: 0px;
+    padding: 1%;
+    /* height: 59px; */
+}
+
+.navbar-inverse .brand {
+    color: #000;
+}
+
+.navbar-inverse .brand:hover,
+.navbar-inverse .nav>li>a:hover,
+.navbar-inverse .brand:focus,
+.navbar-inverse .nav>li>a:focus {
+    color: #000;
+}
+
+.header .nav>li.dropdown.user .dropdown-toggle .username {
+    color: #000 !important;
+}
+
+.header .nav .dropdown-toggle:hover,
+.header .nav .dropdown.open .dropdown-toggle {
+    background-color: #bfb8b8 !important;
+}
